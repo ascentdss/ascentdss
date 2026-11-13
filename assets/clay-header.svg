@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="BROE. Desenvolvimento web, sistemas, infraestrutura Linux e Minecraft.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="BROE. Desenvolvimento web, plataformas, infraestrutura Linux e Java.">
 <defs>
  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F9F7FB"/><stop offset="1" stop-color="#EEEAF3"/></linearGradient>
  <linearGradient id="lavender" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9E5F6"/><stop offset="1" stop-color="#DCD6F0"/></linearGradient>
@@ -14,7 +14,7 @@
 <text x="108" y="88" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" font-weight="700" fill="#4F6559">PERFIL DE DESENVOLVIMENTO</text>
 <text x="65" y="231" font-family="Arial, Helvetica, sans-serif" font-size="126" font-weight="800" letter-spacing="-10" fill="#292B35">BROE<tspan fill="#9B91BA">.</tspan></text>
 <text x="72" y="276" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#515361" font-weight="600">Desenvolvimento web e sistemas</text>
-<text x="72" y="306" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#747581">Infraestrutura Linux · Minecraft · Ferramentas digitais</text>
+<text x="72" y="306" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#747581">Infraestrutura Linux · Java · Ferramentas digitais</text>
 <rect x="71" y="335" width="112" height="34" rx="17" fill="#E5E0F4" stroke="#FFFFFF" stroke-width="2"/>
 <text x="127" y="357" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#625C78" text-anchor="middle" font-weight="700">WEB</text>
 <rect x="195" y="335" width="127" height="34" rx="17" fill="#DDEEE3" stroke="#FFFFFF" stroke-width="2"/>
@@ -34,6 +34,6 @@
 <g font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#444851">
  <text x="840" y="202" font-size="15">APLICAÇÕES</text><text x="840" y="223" font-size="19">Web &amp; API</text>
  <text x="1019" y="202" font-size="15">SERVIDORES</text><text x="1019" y="223" font-size="19">VPS / Deploy</text>
- <text x="843" y="293" font-size="15">PROJETOS E FERRAMENTAS</text><text x="843" y="315" font-size="19">Minecraft, Fabric e Desktop</text>
+ <text x="843" y="293" font-size="15">PROJETOS E FERRAMENTAS</text><text x="843" y="315" font-size="19">Java, APIs e Desktop</text>
 </g>
 </svg>
