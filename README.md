@@ -1,72 +1,129 @@
+<!--
+  BROE / ASCENT — handcrafted GitHub profile
+  All visual assets are local SVGs. No trackers, fabricated stats, or third-party widgets.
+-->
+
 <div align="center">
+  <img src="./assets/broe-hero.svg" width="100%" alt="BROE — I build what I wish existed. Software, game systems and digital experiences." />
 
-<img src="./assets/cover.svg" width="100%" alt="Bruno — Ascent. Building what's next." />
+  <p>
+    <samp>INDEPENDENT BUILDER</samp>
+    &nbsp; · &nbsp;
+    <samp>DESIGN × ENGINEERING</samp>
+    &nbsp; · &nbsp;
+    <samp>ASCENT ECOSYSTEM</samp>
+  </p>
 
-<br />
+  <h2>Ideas are easy. Building them is the point.</h2>
 
-**Developer • Digital products • Game systems**  
-[@ascentdss](https://github.com/ascentdss)
+  <p>
+    Desenvolvo plataformas, ferramentas e sistemas que saem do conceito e viram experiências reais.<br/>
+    <b>Software que resolve. Interfaces com identidade. Mundos que ganham vida.</b>
+  </p>
 
-*I build software, tools and experiences that turn ideas into working products.*
-
-<br />
-
-<img src="https://img.shields.io/badge/FOCUS-BUILDING_PRODUCTS-141A15?style=flat-square&labelColor=141A15&color=B5FF62" alt="Focus: building products" />
-<img src="https://img.shields.io/badge/BASE-BRAZIL-141A15?style=flat-square&labelColor=141A15&color=B5FF62" alt="Based in Brazil" />
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-141A15?style=flat-square&labelColor=141A15&color=B5FF62" alt="Status: in development" />
-
+  <p>
+    <a href="#selected-builds"><strong>EXPLORE THE BUILDS</strong></a>
+    &nbsp; · &nbsp;
+    <a href="#the-toolkit"><strong>THE TOOLKIT</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/ascentdss?tab=repositories"><strong>PUBLIC CODE</strong></a>
+  </p>
 </div>
 
 ---
 
-### `> whoami`
+### <samp>01 / THE MINDSET</samp>
 
-I'm **Bruno**, a builder focused on crafting useful systems and memorable digital experiences. My work connects **web applications, backend infrastructure, developer tools, and Minecraft modding**.
+> **Não construo só telas. Construo o sistema por trás delas.**
 
-I care about **performance, clean interfaces, practical automation, and the details that make software feel great to use**.
+Sou **BROE**, criador de produtos digitais e do ecossistema **ASCENT**. Meu trabalho cruza desenvolvimento web, sistemas multiplayer, automações, infraestrutura e ferramentas próprias.
 
-### `> current_projects`
+O objetivo é simples: **fazer o complexo funcionar de forma fluida, útil e memorável.**
 
-| Project | What I'm building | Area |
-| :--- | :--- | :--- |
-| **ASCENT UNIVERSE** | Custom multiplayer RPG systems and tools for Minecraft Fabric 1.20.1. | Java · Fabric |
-| **ASCENT GO** | A platform for online ordering, delivery operations, inventory, and cost management. | Web · Node.js · MySQL |
-| **ASCENT LAUNCHER** | A dedicated desktop launcher and experience for the Ascent ecosystem. | Desktop · Game tools |
-| **ASCENT TOOLING** | Tools and workflows for building, customizing, and managing digital content. | Developer tooling |
+---
 
-<sub>Selected work in progress. Some repositories are private; project descriptions do not imply public releases.</sub>
+### <samp>02 / SELECTED BUILDS</samp>
 
-Explore my [public repositories](https://github.com/ascentdss?tab=repositories) and follow new releases.
+<a id="selected-builds"></a>
+<details open>
+<summary><b>ASCENT / THREE WORLDS IN PROGRESS</b></summary>
 
-### `> toolbox`
+<br/>
 
-<div align="center">
+<img src="./assets/universe.svg" width="100%" alt="01 — Ascent Universe, multiplayer worlds and RPG systems" />
 
-<img src="https://img.shields.io/badge/Java-111713?style=for-the-badge&logo=openjdk&logoColor=B5FF62" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-111713?style=for-the-badge&logo=javascript&logoColor=B5FF62" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-111713?style=for-the-badge&logo=nodedotjs&logoColor=B5FF62" alt="Node.js" />
-<img src="https://img.shields.io/badge/MySQL-111713?style=for-the-badge&logo=mysql&logoColor=B5FF62" alt="MySQL" />
-<img src="https://img.shields.io/badge/Linux-111713?style=for-the-badge&logo=linux&logoColor=B5FF62" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-111713?style=for-the-badge&logo=git&logoColor=B5FF62" alt="Git" />
-<img src="https://img.shields.io/badge/Neovim-111713?style=for-the-badge&logo=neovim&logoColor=B5FF62" alt="Neovim" />
+**Um mundo com suas próprias regras.** Desenvolvimento de sistemas RPG multiplayer para Minecraft Fabric 1.20.1: personagens, classes, progressão, equipamentos, interfaces e ferramentas de administração.
 
-</div>
+`JAVA` &nbsp; `FABRIC` &nbsp; `MULTIPLAYER` &nbsp; `GAME SYSTEMS`
 
-### `> principles`
+<br/>
 
-```txt
-01  Build things people can actually use.
-02  Keep performance and reliability in focus.
-03  Make complex systems feel simple.
-04  Improve continuously. Ship thoughtfully.
+<img src="./assets/go.svg" width="100%" alt="02 — Ascent GO, commerce, delivery and operations" />
+
+**Operação real, sem complicação.** Plataforma de pedidos e entregas com fluxo de atendimento, logística, estoque, custos e gestão do negócio.
+
+`WEB` &nbsp; `NODE.JS` &nbsp; `MYSQL` &nbsp; `OPERATIONS`
+
+<br/>
+
+<img src="./assets/launcher.svg" width="100%" alt="03 — Ascent Launcher, desktop experience and game access" />
+
+**A entrada também faz parte da experiência.** Launcher desktop para unificar acesso, distribuição e a experiência do universo Ascent.
+
+`DESKTOP` &nbsp; `LAUNCHER` &nbsp; `USER EXPERIENCE` &nbsp; `TOOLING`
+
+</details>
+
+<sub>Projetos em desenvolvimento. Alguns repositórios são privados; as descrições acima são uma visão pública do trabalho.</sub>
+
+---
+
+### <samp>03 / THE TOOLKIT</samp>
+
+<a id="the-toolkit"></a>
+
+```text
+LANGUAGES     Java  /  JavaScript
+BACKEND       Node.js  /  MySQL
+GAME DEV      Fabric  /  Multiplayer Systems
+ENVIRONMENT   Linux  /  Git  /  Neovim
+PRIORITIES    Performance  /  Experience  /  Reliability
 ```
 
+**Do protótipo à produção.** Arquitetura, lógica, integração, interface e infraestrutura — com atenção à fluidez e aos detalhes.
+
+---
+
+### <samp>04 / DESIGN PRINCIPLES</samp>
+
+<details>
+<summary><b>▸ READ THE BUILD MANIFEST</b></summary>
+
+<br/>
+
+```txt
+01  BUILD > HYPE
+02  PERFORMANCE IS A FEATURE
+03  COMPLEXITY BELONGS BEHIND THE INTERFACE
+04  EVERY DETAIL CHANGES THE EXPERIENCE
+05  KEEP LEARNING. KEEP SHIPPING.
+```
+
+O melhor sistema não é o que promete mais. É o que entrega uma experiência melhor.
+
+</details>
+
 ---
 
 <div align="center">
 
-**ASCENT** — *ideas deserve to become real.*
+  <p><samp>LESS TEMPLATE. MORE IDENTITY.</samp></p>
 
-<sub>Designed with purpose · Built to evolve</sub>
+  <a href="https://github.com/ascentdss?tab=repositories"><b>EXPLORE PUBLIC REPOSITORIES</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/ascentdss"><b>FOLLOW BROE</b></a>
 
+  <br/><br/>
+
+  <img src="./assets/broe-footer.svg" width="100%" alt="BROE — Build something worth opening. Ascent Ecosystem." />
 </div>
