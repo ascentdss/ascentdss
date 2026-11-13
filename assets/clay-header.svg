@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="BROE. Desenvolvimento web, sistemas, infraestrutura Linux e Minecraft.">
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F9F7FB"/><stop offset="1" stop-color="#EEEAF3"/></linearGradient>
+ <linearGradient id="lavender" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9E5F6"/><stop offset="1" stop-color="#DCD6F0"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E1F2E9"/><stop offset="1" stop-color="#CDE9DE"/></linearGradient>
+ <linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAEBE6"/><stop offset="1" stop-color="#F1D9CF"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-50%" width="160%" height="200%"><feDropShadow dx="0" dy="13" stdDeviation="17" flood-color="#746B85" flood-opacity=".14"/></filter>
+ <filter id="small" x="-30%" y="-50%" width="160%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#746B85" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1280" height="420" rx="32" fill="#F0EDF4"/>
+<rect x="23" y="19" width="1234" height="380" rx="35" fill="url(#base)" stroke="#FFFFFF" stroke-width="3" filter="url(#shadow)"/>
+<rect x="66" y="62" width="253" height="39" rx="19" fill="#E5F0E8" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="91" cy="82" r="6" fill="#7AAC92"/>
+<text x="108" y="88" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" font-weight="700" fill="#4F6559">PERFIL DE DESENVOLVIMENTO</text>
+<text x="65" y="231" font-family="Arial, Helvetica, sans-serif" font-size="126" font-weight="800" letter-spacing="-10" fill="#292B35">BROE<tspan fill="#9B91BA">.</tspan></text>
+<text x="72" y="276" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#515361" font-weight="600">Desenvolvimento web e sistemas</text>
+<text x="72" y="306" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#747581">Infraestrutura Linux · Minecraft · Ferramentas digitais</text>
+<rect x="71" y="335" width="112" height="34" rx="17" fill="#E5E0F4" stroke="#FFFFFF" stroke-width="2"/>
+<text x="127" y="357" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#625C78" text-anchor="middle" font-weight="700">WEB</text>
+<rect x="195" y="335" width="127" height="34" rx="17" fill="#DDEEE3" stroke="#FFFFFF" stroke-width="2"/>
+<text x="258" y="357" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#516C5B" text-anchor="middle" font-weight="700">BACKEND</text>
+<rect x="334" y="335" width="124" height="34" rx="17" fill="#F7E5DD" stroke="#FFFFFF" stroke-width="2"/>
+<text x="396" y="357" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#806356" text-anchor="middle" font-weight="700">VPS / LINUX</text>
+<g filter="url(#shadow)">
+ <rect x="780" y="63" width="412" height="300" rx="35" fill="url(#lavender)" stroke="#FBFAFF" stroke-width="3"/>
+</g>
+<circle cx="816" cy="98" r="5" fill="#C7B7DB"/><circle cx="834" cy="98" r="5" fill="#D7CDE5"/><circle cx="852" cy="98" r="5" fill="#E7DEEF"/>
+<text x="821" y="147" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1" fill="#5F596F">ÁREAS DE ATUAÇÃO</text>
+<g filter="url(#small)">
+ <rect x="818" y="172" width="158" height="74" rx="22" fill="url(#mint)" stroke="#FFFFFF" stroke-width="2"/>
+ <rect x="997" y="172" width="158" height="74" rx="22" fill="url(#peach)" stroke="#FFFFFF" stroke-width="2"/>
+ <rect x="818" y="262" width="337" height="69" rx="22" fill="#FBF5E9" stroke="#FFFFFF" stroke-width="2"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#444851">
+ <text x="840" y="202" font-size="15">APLICAÇÕES</text><text x="840" y="223" font-size="19">Web &amp; API</text>
+ <text x="1019" y="202" font-size="15">SERVIDORES</text><text x="1019" y="223" font-size="19">VPS / Deploy</text>
+ <text x="843" y="293" font-size="15">PROJETOS E FERRAMENTAS</text><text x="843" y="315" font-size="19">Minecraft, Fabric e Desktop</text>
+</g>
+</svg>
