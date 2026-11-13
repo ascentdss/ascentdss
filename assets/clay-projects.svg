@@ -18,7 +18,7 @@
 <text x="893" y="71" font-size="27" font-weight="800">ASCENT LAUNCHER</text>
 </g>
 <g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#62636F">
-<text x="54" y="104">Minecraft · RPG multiplayer</text>
+<text x="54" y="104">Java · Sistemas em rede</text>
 <text x="472" y="104">Pedidos · Entregas · Gestão</text>
 <text x="892" y="104">Aplicação desktop</text>
 </g>
@@ -33,7 +33,7 @@
  <path d="M121 181L149 166"/>
 </g>
 <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#726585">
-<text x="198" y="190">Fabric 1.20.1</text><text x="198" y="215">Sistemas RPG</text><text x="198" y="240">Servidor dedicado</text>
+<text x="198" y="190">Java / APIs</text><text x="198" y="215">Componentes</text><text x="198" y="240">Cliente / servidor</text>
 </g>
 <g stroke="#719D85" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
  <rect x="497" y="159" width="84" height="77" rx="14"/><path d="M518 178H559 M518 193H559 M518 208H540"/>
