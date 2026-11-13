@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="316" viewBox="0 0 1280 316" role="img" aria-label="Projetos Ascent: Universe, GO e Launcher.">
+<defs>
+ <linearGradient id="lilac" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EDE9F7"/><stop offset="1" stop-color="#DBD5EC"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E7F5EC"/><stop offset="1" stop-color="#D2EADF"/></linearGradient>
+ <linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBEDE6"/><stop offset="1" stop-color="#F1DDD3"/></linearGradient>
+ <filter id="card" x="-20%" y="-30%" width="150%" height="170%"><feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#686174" flood-opacity=".13"/></filter>
+ <filter id="button" x="-20%" y="-50%" width="140%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#706E7A" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1280" height="316" rx="26" fill="#F3F0F6"/>
+<g filter="url(#card)">
+<rect x="22" y="18" width="397" height="280" rx="30" fill="url(#lilac)" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="442" y="18" width="396" height="280" rx="30" fill="url(#mint)" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="861" y="18" width="397" height="280" rx="30" fill="url(#peach)" stroke="#FFFFFF" stroke-width="3"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#333541">
+<text x="53" y="71" font-size="27" font-weight="800">ASCENT UNIVERSE</text>
+<text x="472" y="71" font-size="27" font-weight="800">ASCENT GO</text>
+<text x="893" y="71" font-size="27" font-weight="800">ASCENT LAUNCHER</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#62636F">
+<text x="54" y="104">Minecraft · RPG multiplayer</text>
+<text x="472" y="104">Pedidos · Entregas · Gestão</text>
+<text x="892" y="104">Aplicação desktop</text>
+</g>
+<g filter="url(#button)">
+ <rect x="52" y="132" width="337" height="136" rx="27" fill="#F8F5FF" stroke="#FFFFFF" stroke-width="3"/>
+ <rect x="471" y="132" width="338" height="136" rx="27" fill="#F8FFFA" stroke="#FFFFFF" stroke-width="3"/>
+ <rect x="890" y="132" width="338" height="136" rx="27" fill="#FFFAF7" stroke="#FFFFFF" stroke-width="3"/>
+</g>
+<g stroke="#8B7EA8" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-width="4">
+ <path d="M121 156L171 182L121 208L71 182Z"/>
+ <path d="M71 182V224L121 250L171 224V182M121 208V250"/>
+ <path d="M121 181L149 166"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#726585">
+<text x="198" y="190">Fabric 1.20.1</text><text x="198" y="215">Sistemas RPG</text><text x="198" y="240">Servidor dedicado</text>
+</g>
+<g stroke="#719D85" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <rect x="497" y="159" width="84" height="77" rx="14"/><path d="M518 178H559 M518 193H559 M518 208H540"/>
+ <circle cx="608" cy="178" r="11"/><circle cx="641" cy="208" r="11"/><path d="M618 183L632 200"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#5C7C67">
+<text x="672" y="190">Catálogo</text><text x="672" y="215">Operação</text><text x="672" y="240">Logística</text>
+</g>
+<g stroke="#B58C7F" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <rect x="917" y="158" width="124" height="79" rx="12"/>
+ <path d="M918 178H1040"/><circle cx="930" cy="169" r="3" fill="#B58C7F" stroke="none"/><circle cx="944" cy="169" r="3" fill="#B58C7F" stroke="none"/>
+ <path d="M958 197L983 213L958 229Z" fill="#D6AE9E"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#967265">
+<text x="1064" y="190">Desktop</text><text x="1064" y="215">Updates</text><text x="1064" y="240">Interface</text>
+</g>
+</svg>
