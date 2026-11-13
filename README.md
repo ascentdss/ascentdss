@@ -1,214 +1,306 @@
 <div align="center">
-  <img src="./assets/clay-header.svg" alt="BROE — desenvolvimento web, sistemas, infraestrutura Linux e Minecraft" width="100%" />
-  <p><strong>BROE</strong> · Desenvolvimento de software, produtos digitais e projetos de Minecraft</p>
+  <img src="./assets/clay-header.svg" alt="BROE — desenvolvimento web, plataformas digitais, VPS, Java e ferramentas" width="100%" />
+
+  <h3>BROE · Desenvolvimento de sistemas e produtos digitais</h3>
+
+  <p>Aplicações web · Plataformas financeiras · Sistemas comerciais · APIs · VPS · Automação · Desktop</p>
+
   <p>
-    <a href="#sobre">Sobre</a> ·
-    <a href="#web">Web</a> ·
-    <a href="#backend">Backend</a> ·
-    <a href="#vps">VPS e deploy</a> ·
-    <a href="#fluxos">Fluxos de cliente</a> ·
-    <a href="#minecraft">Minecraft</a> ·
+    <a href="#atuacao">Áreas de atuação</a> ·
     <a href="#projetos">Projetos</a> ·
-    <a href="#ferramentas">Ferramentas</a>
+    <a href="#tecnologias">Tecnologias</a> ·
+    <a href="#infraestrutura">Infraestrutura</a> ·
+    <a href="https://github.com/ascentdss?tab=repositories">Repositórios públicos</a>
   </p>
 </div>
 
 ---
 
 <a id="sobre"></a>
-## 01 · Sobre
+## Sobre
 
-Sou conhecido como **BROE**. Trabalho no desenvolvimento de aplicações web, sistemas de gestão, ferramentas para desktop e projetos relacionados a servidores de Minecraft. Também faço configuração de ambientes Linux, implantação de aplicações, integração com bancos de dados e ajustes no funcionamento de sistemas.
+Sou conhecido como **BROE**. Trabalho com desenvolvimento e evolução de plataformas digitais, desde interfaces e experiência do usuário até APIs, banco de dados, integrações externas, administração de servidores e implantação.
 
-Meus projetos envolvem tanto a parte visível para o usuário quanto o funcionamento por trás dela: **interface, regras de negócio, APIs, armazenamento de dados, infraestrutura e operação**.
+Meu portfólio reúne projetos em diferentes fases: **sistemas implementados, plataformas em evolução, integrações em testes e protótipos**. As descrições detalham as tecnologias e os tipos de funcionalidades com os quais já trabalhei, sem representar que todos os recursos estejam disponíveis em produção.
 
-Neste perfil organizo as áreas com as quais trabalho e alguns projetos em desenvolvimento. Nem todos os repositórios são públicos.
+<a id="atuacao"></a>
+## Áreas de atuação
+
+<img src="./assets/clay-expertise.svg" alt="Categorias de atuação: plataformas financeiras, pagamentos, lojas, criadores de conteúdo, VPS e ferramentas" width="100%" />
+
+| Categoria | O que desenvolvo e configuro |
+| --- | --- |
+| **Aplicações web** | Sites, plataformas, dashboards, landing pages, áreas logadas e interfaces responsivas. |
+| **Sistemas comerciais** | Lojas digitais, catálogos, carrinho, checkout, pedidos, gestão de produtos e operações. |
+| **Plataformas financeiras** | Interfaces de trading, gráficos, indicadores, simulação de operações, assinaturas e painéis. |
+| **Pagamentos e integrações** | APIs de checkout, PIX, webhooks, fluxos de status, conciliação e ambientes sandbox. |
+| **Plataformas para criadores** | Campanhas, parcerias, produtos digitais, páginas personalizadas, mídia e painéis. |
+| **Backend e banco de dados** | Node.js, APIs, autenticação, regras de negócio, MySQL, consultas e migrações. |
+| **VPS e hospedagem** | Linux, SSH, SCP, serviços, publicação, manutenção, logs e ambientes de execução. |
+| **Automação e ferramentas** | Painéis operacionais, agentes, fluxos administrativos, ferramentas locais e editores. |
+| **Aplicações Java** | Sistemas modulares, comunicação cliente-servidor, interfaces e funcionalidades em tempo real. |
+| **Aplicações desktop** | Launchers, utilitários locais, editores de arquivos e processos de instalação/atualização. |
+| **Portais e conteúdo** | CMS, páginas públicas, bibliotecas de mídia e organização de publicações. |
+
+---
 
 <a id="web"></a>
-## 02 · Desenvolvimento web e interfaces
+## 01. Front-end, interfaces e experiência do usuário
 
-| Área | Atividades |
-| --- | --- |
-| **Front-end** | Estruturação de páginas, componentes, formulários, menus, modais, dashboards e painéis administrativos. |
-| **Responsividade** | Adaptação de interfaces para computador, tablet e celular; ajustes de navegação, proporção e espaçamento. |
-| **UI / UX** | Organização de informações, hierarquia visual, contraste, estados de botões, feedback de ações e redução de etapas desnecessárias. |
-| **Identidade visual** | Temas escuros e claros, claymorphism, ícones, cartões, tipografia, animações discretas e componentes reutilizáveis. |
-| **Interações** | Carrinhos, seleção de variantes, filtros, pesquisa, campos com sugestões, diálogos de confirmação e validações. |
-| **Experiência mobile** | Layout compacto, menus adequados ao toque, barras de rolagem personalizadas e atenção ao desempenho. |
-
-**Tecnologias com as quais trabalho:** HTML, CSS, JavaScript e aplicações web integradas ao Node.js.
+- Desenvolvimento de páginas, áreas de usuário, formulários, modais, componentes, listas, filtros, buscas e painéis.
+- Interfaces **responsivas** para desktop e mobile, com adaptação de menus, tabelas, botões, imagens e navegação por toque.
+- Criação e personalização de temas, incluindo **dark mode, claymorphism, interfaces compactas e componentes com efeitos visuais**.
+- Organização de fluxos: cadastro, login, onboarding, escolha de produtos, confirmação de operações, edição de registros e acompanhamento de solicitações.
+- Componentes de administração: modais de cadastro e edição, menus laterais, indicadores, estados vazios, feedback de erros e confirmações.
+- Atenção a carregamento, legibilidade, contraste, consistência visual, rolagem, desempenho e usabilidade.
+- Criação de páginas e telas com **HTML, CSS e JavaScript**, incluindo editores com pré-visualização e personalização de componentes.
 
 <a id="backend"></a>
-## 03 · Backend, APIs e banco de dados
+## 02. Backend, APIs e banco de dados
 
-| Área | Atividades |
+- Desenvolvimento com **Node.js** e APIs HTTP para integração entre interface, serviços e persistência.
+- Estruturação de rotas, parâmetros, middlewares, validações e regras de autorização.
+- Contas de usuário, autenticação, sessões, papéis de acesso e áreas administrativas.
+- Modelagem e manutenção de bancos **MySQL**, relações, consultas SQL e evolução de esquemas.
+- Regras de negócio para transações, pedidos, estoque, assinaturas, permissões e estados operacionais.
+- Tratamento de erros, logging de endpoints, investigação de falhas HTTP, integração e inconsistências de banco.
+- Processamento de eventos, callbacks, **webhooks**, registros de auditoria e controles para reduzir operações duplicadas.
+- Separação de responsabilidades entre **cliente, servidor e banco de dados**.
+
+<a id="financas"></a>
+## 03. Plataformas financeiras, corretoras e trading
+
+Já trabalhei na construção de interfaces, backends e fluxos de plataformas ligadas a **trading, simulação de mercado e acesso por assinatura**.
+
+| Sistema / recurso | Experiência com |
 | --- | --- |
-| **Backend com Node.js** | Organização de serviços, rotas, endpoints e lógica de aplicação. |
-| **APIs** | Troca de dados entre front-end e servidor, validação de requisições, respostas de erro e integrações. |
-| **Autenticação e acesso** | Estrutura de contas, sessões e permissões para diferentes tipos de usuário. |
-| **MySQL** | Modelagem de tabelas, relações, consultas, atualização de registros e persistência de dados. |
-| **Migrações de banco** | Evolução de esquemas e cuidado com compatibilidade entre versões. |
-| **Regras de negócio** | Estados de pedidos, pagamentos, estoque, cálculos de custos, precificação e controle operacional. |
-| **Diagnóstico** | Investigação de erros HTTP, falhas de endpoints, logs do servidor e problemas relacionados a consultas SQL. |
+| **STRATTON** | Plataforma OTC em ambiente demonstrativo, com interface de operações, gráficos, ativos, histórico e painel administrativo. |
+| **Gráficos financeiros** | Visualização de preços e candles, organização de ativos, séries temporais e indicadores. |
+| **Indicadores** | Estudos com médias móveis, RSI, MACD e bandas de Bollinger. |
+| **Operações demo** | Fluxos de abertura, registro e histórico de operações simuladas. |
+| **Contas e áreas de acesso** | Distinção entre perfis, saldos e acessos relacionados a ambientes demo/real, conforme o sistema. |
+| **Lottus Trading** | Fluxos de checkout por assinatura, confirmação de pagamento e integração com a plataforma Avalon. |
+| **Integrações externas** | Webhooks, APIs de plataformas, atualização de status e vinculação de contas. |
+| **Administração** | Interfaces para gestão, acompanhamento de eventos e configuração de recursos. |
 
-Também trabalho com a separação entre o que deve ser validado no **cliente** e o que precisa ser confirmado pelo **servidor**, principalmente em operações que alteram dados ou movimentam pedidos e pagamentos.
+**Tecnologias e abordagens utilizadas nos projetos:** JavaScript, React/Vite, Node.js/Express, MySQL, WebSocket e interfaces de gráficos.
 
-<a id="vps"></a>
-## 04 · VPS, Linux e hospedagem
+> **Escopo:** STRATTON inclui funcionalidades demonstrativas. Trabalhar em software financeiro e integrações não significa operar uma instituição financeira ou corretora regulada, nem comprova que todos os recursos foram lançados comercialmente.
 
-Configuro e administro ambientes utilizados para aplicações web e servidores de jogos, principalmente com **Ubuntu Linux**.
+<a id="pagamentos"></a>
+## 04. Sistemas de pagamentos, checkout e infraestrutura financeira
 
-| Área | Atividades |
-| --- | --- |
-| **VPS** | Preparação de ambiente, instalação de dependências, estrutura de arquivos e organização de serviços. |
-| **Acesso remoto** | Conexões com SSH, transferência com SCP e operações via terminal. |
-| **Linux** | Comandos de administração, usuários, grupos, proprietários de arquivos e permissões. |
-| **Serviços** | Criação, inicialização, reinicialização e acompanhamento de processos com `systemd`. |
-| **Hospedagem web** | Publicação de aplicações Node.js, configuração de ambiente e conexão com MySQL. |
-| **Servidor Minecraft** | Organização de instância dedicada, mods, mundo, permissões e acompanhamento de execução. |
-| **Logs e manutenção** | Leitura de mensagens do sistema, análise de falhas de inicialização e correções de configuração. |
-| **Versionamento e deploy** | Uso de Git/GitHub, publicação de novas versões e validação após a implantação. |
+**Projetos relacionados:** **Graffit Pay** e estudos de arquitetura do **BROE Pay**.
 
-**Ambientes com os quais já trabalhei nos projetos:** VPS Contabo com Ubuntu, Hostinger para aplicações Node.js e MySQL, além de Windows/PowerShell para desenvolvimento e administração remota.
+- Desenvolvimento e integração de **APIs de pagamentos** e sessões de checkout.
+- Fluxos de **PIX**, criação de cobranças e acompanhamento de status.
+- Recebimento e tratamento de **webhooks** de provedores, confirmação de eventos e atualização de registros.
+- Integrações com provedores externos, credenciais e ambientes de teste.
+- Organização de comerciantes, clientes, identificadores de transação e referências externas.
+- Estudo e implementação de componentes como **payment intents, ledger, conciliação, roteamento de provedores e idempotência**, conforme a evolução de cada projeto.
+- Desenvolvimento de módulos relacionados a **carteiras gerenciadas, ativos digitais e liquidação**, com integrações em sandbox.
+- Registros operacionais, chaves de API, permissões, auditoria e tratamento de falhas.
 
-<a id="deploy"></a>
-## 05 · Meu fluxo de desenvolvimento e implantação
+**Graffit Pay** é um projeto de infraestrutura de pagamentos baseado em APIs, com módulos próprios e integrações externas. Parte das funcionalidades e validações passou por ambiente de testes; isso não representa uma oferta pública de serviços financeiros nem autorização regulatória.
 
-Trabalho com o ciclo completo de evolução de uma funcionalidade, desde a necessidade inicial até o teste em ambiente de execução.
+**BROE Pay** foi trabalhado como proposta/arquitetura de orquestração de checkout e provedores; não está apresentado aqui como produto comercial concluído.
 
-| Etapa | Como organizo |
-| --- | --- |
-| **1. Planejamento** | Definição do problema, telas envolvidas, comportamento esperado e regras de funcionamento. |
-| **2. Interface** | Criação ou ajuste do layout, campos, estados de interação e versão mobile. |
-| **3. Lógica** | Implementação de endpoints, validações, cálculos e integração com o banco. |
-| **4. Testes** | Verificação dos caminhos principais, mensagens de erro e comportamento entre cliente e servidor. |
-| **5. Versionamento** | Organização de mudanças no Git e publicação no repositório correspondente. |
-| **6. Implantação** | Atualização do ambiente de hospedagem ou da VPS e revisão das configurações necessárias. |
-| **7. Acompanhamento** | Consulta de logs, correções e novos testes após o deploy. |
+<a id="comercio"></a>
+## 05. Comércio eletrônico, lojas e operação de pedidos
 
-Em projetos maiores também separo ferramentas **client-side** de componentes **server-side**, evitando que funções de interface sejam carregadas no servidor dedicado.
+**Projetos relacionados:** **Ascent GO** e **Ascent Shop**.
+
+### Para o cliente
+
+- Navegação por categorias e produtos, descrições, fotos, preços e adicionais.
+- Configuração de itens, quantidades, complementos, carrinho e resumo de valores.
+- Escolha entre **entrega e retirada**, preenchimento de endereço e confirmação de localização.
+- Formas de pagamento como **PIX, débito, crédito e dinheiro com troco**, conforme o fluxo.
+- Validação do pedido, registro e acompanhamento das mudanças de status.
+- Mensagens e links de acompanhamento e integração com canais como WhatsApp.
+
+### Para a empresa
+
+- Painéis de pedidos recebidos, em preparo, prontos, em entrega e concluídos.
+- Cadastro de lojas, categorias, produtos, variações, adicionais e regras de seleção.
+- Gestão de insumos, unidades, receitas, **custo de mercadoria vendida (CMV)**, margem e precificação.
+- Gestão de estoque, saídas, custos por item e dados de operação.
+- Confirmações de pagamento, situações excepcionais e controles administrativos.
+- Organização de telas e ações para operadores e proprietários.
+
+### Para logística e entregas
+
+- Listagem de entregas disponíveis, dados de destino e atualização de andamento.
+- Geolocalização, autocomplete de endereços, mapas, rotas e integração com serviços como **Geoapify**.
+- Abertura de navegação externa e confirmação da conclusão de uma entrega.
+
+O **Ascent GO** reúne o desenvolvimento desses fluxos. O **Ascent Shop** é outro projeto de loja/plataforma comercial; seu repositório privado está atualmente organizado para arquivamento/restauração, sem afirmação de publicação comercial ativa.
+
+<a id="creators"></a>
+## 06. Plataformas de criadores, parceiros e marketing
+
+**Projeto relacionado:** **Ascent Creators**.
+
+- Estrutura de contas e painéis para **administradores, criadores e empresas**.
+- Cadastro e gerenciamento de campanhas, colaboração entre participantes e inscrições.
+- Aprovação de candidaturas e acompanhamento das etapas de uma campanha.
+- **Páginas personalizadas** com editor HTML/CSS/JS, pré-visualização e separação entre rascunho e publicação.
+- Lojas de criadores, produtos digitais e formas de entrega como **códigos, chaves, links, textos e arquivos**.
+- Organização de cupons, conteúdo promocional, pedidos e fluxos comerciais.
+- Bibliotecas de mídia para imagens e vídeos, pré-visualização, organização e download de originais.
+- Interfaces de tarefas, agenda, comunicação, acompanhamento e métricas.
+- Integrações estudadas ou implementadas conforme versão: **OAuth, e-mail, pagamentos, PIX e canais de conteúdo**.
+- Administração de permissões, logs, segurança e manutenção de arquivos.
+
+**Stack trabalhada:** Node.js, MySQL, HTML, CSS, JavaScript e integrações web.
 
 <a id="fluxos"></a>
-## 06 · Experiência do cliente, vendas e operações
+## 07. Jornada do cliente e lógica operacional
 
-Nos sistemas comerciais, trabalho na organização do caminho que diferentes usuários percorrem: **cliente, gestor e entregador**. Um exemplo é o projeto **Ascent GO**.
+Além das interfaces, trabalho no desenho de **fluxos completos entre diferentes perfis**.
 
-**Fluxo do cliente**
-
-1. Visualização do catálogo, categorias, produtos e adicionais.
-2. Escolha de quantidades, opções e montagem do carrinho.
-3. Preenchimento de endereço, número, complemento e confirmação de localização.
-4. Seleção de entrega ou retirada e consulta às taxas aplicáveis.
-5. Escolha do pagamento: PIX, débito, crédito e, quando aplicável, dinheiro com troco.
-6. Confirmação do pedido e acesso ao acompanhamento do andamento.
-
-**Fluxo do estabelecimento**
-
-1. Recebimento e visualização de pedidos no painel.
-2. Conferência de itens, observações, pagamento e tipo de atendimento.
-3. Atualização dos estados de preparo, retirada e entrega.
-4. Cadastro de produtos, categorias, adicionais e insumos.
-5. Cálculo de custo por receita, CMV, preço de venda e margem.
-6. Controle operacional e consulta a informações de estoque.
-
-**Fluxo do entregador**
-
-1. Acesso aos pedidos liberados para entrega.
-2. Consulta a endereço, informações necessárias e forma de pagamento.
-3. Abertura de mapa ou navegação por rota.
-4. Atualização do andamento e confirmação da entrega.
-
-**Integrações e experiência:** geolocalização, autocomplete de endereços, mapas e rotas (incluindo uso de Geoapify), links de acompanhamento, mensagens via WhatsApp e estudo de notificações para desktop/mobile.
-
-> **Nota:** o Ascent GO continua em desenvolvimento. Os fluxos acima descrevem áreas do sistema em que trabalho; recursos específicos podem estar em implementação, revisão ou testes.
-
-<a id="minecraft"></a>
-## 07 · Minecraft, mods e servidores multiplayer
-
-Desenvolvo sistemas e ferramentas para **Minecraft Java / Fabric 1.20.1**, com atenção à execução em **servidores dedicados**.
-
-| Área | Atividades |
+| Perfil / jornada | Exemplos de etapas |
 | --- | --- |
-| **Mods Fabric** | Desenvolvimento de funcionalidades em Java e integração com o ambiente do Minecraft. |
-| **Arquitetura multiplayer** | Separação de lógica do servidor e interface do cliente, sincronização e validação de ações. |
-| **RPG e progressão** | Classes, habilidades, profissões, níveis, experiência e sistemas de evolução. |
-| **Personagens** | Seleção, dados individuais e controles administrativos para gerenciamento. |
-| **Equipamentos** | Categorias de itens, slots, atributos, bônus e restrições por classe. |
-| **Economia e NPCs** | Lojas, compra/venda de itens e regras de transação controladas pelo servidor. |
-| **Interfaces** | HUDs, inventários personalizados, editores, menus, telas de personagem e painéis de administração. |
-| **Modelos e texturas** | Fluxos com Blockbench, arquivos JSON, texturas PNG e projetos BBMODEL. |
-| **Operação do servidor** | Mods, configuração, acompanhamento de logs, desempenho e organização de arquivos do mundo. |
+| **Visitante → cliente** | Entrada na página, cadastro/login, navegação, seleção, checkout e confirmação. |
+| **Cliente recorrente** | Autenticação, histórico, status de pedidos, acesso a recursos e dados próprios. |
+| **Assinante de plataforma** | Escolha de plano, checkout externo, webhook de aprovação e liberação de acesso. |
+| **Operador comercial** | Recebimento, conferência, preparo, validação, alteração de estado e conclusão. |
+| **Entregador** | Acesso a pedidos, consulta de rota, atualização de execução e finalização. |
+| **Criador de conteúdo** | Cadastro, participação em campanhas, administração de páginas e produtos digitais. |
+| **Gestor / administrador** | Permissões, configuração, acompanhamento de eventos, usuários, registros e relatórios. |
+| **Operação via API** | Requisição, validação de dados, processamento, resposta, logs e atualização persistente. |
 
-No **Ascent Universe**, trabalho especialmente com as classes **Aventureiro, Agricultor e Ferreiro**, seus equipamentos, profissões, desbloqueios e regras de progressão. Os sistemas são desenvolvidos e ajustados gradualmente.
+Também considero os estados intermediários: erro de validação, pagamento ainda não confirmado, dados incompletos, duplicidade de eventos e necessidade de recuperar uma operação interrompida.
+
+<a id="infraestrutura"></a>
+## 08. VPS, servidores, hospedagem e DevOps
+
+Trabalho com ambientes **Windows e Linux**, incluindo administração remota, configuração, deploy e diagnóstico.
+
+| Categoria | Experiência |
+| --- | --- |
+| **VPS Linux** | Preparação de máquinas Ubuntu, instalação de dependências e organização de ambientes. |
+| **SSH / SCP** | Conexões remotas, autenticação por chave, transferência de arquivos e atualização de aplicações. |
+| **Serviços de sistema** | Configuração e operação de serviços com `systemd`, inicialização, reinício e diagnóstico. |
+| **Usuários e permissões** | Propriedade de diretórios, grupos de acesso e resolução de erros de permissão. |
+| **Node.js em hospedagem** | Publicação, configurações de entrada, variáveis de ambiente e leitura de logs. |
+| **MySQL hospedado** | Configuração de conexão, erros de consulta, acesso e manutenção de esquemas. |
+| **Versionamento** | Git, repositórios, branches, atualizações e histórico de mudanças. |
+| **Deploy** | Preparação de build, transferência/implantação e verificação após publicação. |
+| **Monitoramento** | Logs da aplicação, análise de processos, respostas HTTP e problemas de desempenho. |
+| **Segurança operacional** | Separação de credenciais, arquivos privados, permissões e cuidados com dados sensíveis. |
+
+**Ambientes com os quais já trabalhei:** Ubuntu 24.04, VPS Contabo, Hostinger Node.js/MySQL e PowerShell no Windows.
+
+### Ascent Host e automação de infraestrutura
+
+Projeto de painel de administração e integração com **agentes de infraestrutura**, envolvendo comunicação entre painel e máquina, configuração remota, gestão de instâncias, arquivos e diagnóstico. O desenvolvimento incluiu preocupações com autenticação, logs, intervalos de comunicação, estado de serviços e desempenho.
 
 <a id="desktop"></a>
-## 08 · Aplicações desktop e ferramentas próprias
+## 09. Ferramentas desktop, launchers e editores
 
-- **Launchers para Windows:** interface, configuração, distribuição, fluxo de atualização e preparação de builds.
-- **Ferramentas de edição:** painéis para cadastrar, visualizar, organizar e ajustar itens e recursos de projetos.
-- **Importação de arquivos:** uso de JSON, PNG e BBMODEL em fluxos de criação de conteúdo.
-- **Ferramentas locais:** construção de utilitários que podem funcionar no próprio computador, sem depender de hospedagem.
-- **Diagnóstico:** telas de logs, exportação de informações e recursos que ajudam a localizar problemas.
-- **Experiência de uso:** organização por abas, pré-visualização, respostas visuais e interfaces que não travem a aplicação.
+- **Ascent Launcher:** aplicativo desktop com interface própria, preparação de instalador, organização de atualização e execução.
+- **Ascent Model Forge Desktop:** editor local de estruturas/modelos com importação de **JSON/PNG**, visualização 3D, pintura de textura, edição de propriedades e exportação de arquivos.
+- **Universal UI Studio:** editor visual para criar e ajustar telas HTML/CSS/JS com componentes, camadas, inspetor, pré-visualização e exportação.
+- **Ferramentas de diagnóstico:** painéis de logs, exportação de dados e suporte à investigação de falhas.
+- **Ferramentas para automação local:** fluxos de arquivos, edição de recursos e utilitários de preparação de ambientes.
+- **Aplicações com recursos de navegador integrado:** uso de componentes web em aplicativos e comunicação entre interface e lógica nativa.
+
+Esses projetos incluem aplicações em estágios diferentes, de protótipos locais a sistemas com interfaces e módulos desenvolvidos.
+
+<a id="java"></a>
+## 10. Java, sistemas cliente-servidor e aplicações interativas
+
+- Desenvolvimento de módulos, eventos, regras de negócio e interfaces com **Java**.
+- Comunicação e separação de responsabilidades entre **cliente e servidor**.
+- Validação de operações no servidor, permissões por usuário e sincronização de estados.
+- Sistemas de cadastro de entidades, atributos, progressão e regras personalizadas.
+- Interfaces HTML/CSS/JS integradas a aplicações Java por **bridges e callbacks**.
+- Importação e registro de recursos, arquivos JSON e texturas PNG.
+- Execução em processos dedicados, depuração por logs e atenção ao desempenho.
+- Organização de componentes reutilizáveis, ferramentas administrativas e editores de conteúdo.
+- Uso de **Gradle**, estruturas de projeto Java e gerenciamento de dependências.
+
+<a id="automacao"></a>
+## 11. Integrações, automação e ferramentas operacionais
+
+| Tipo de integração | Exemplos de trabalho |
+| --- | --- |
+| **APIs REST** | Consulta, criação e alteração de dados entre plataformas. |
+| **Webhooks** | Eventos de pagamentos, assinaturas, notificações e atualizações de status. |
+| **Comunicação em tempo real** | Atualização de interfaces, dados e eventos com tecnologias como WebSocket. |
+| **Rotas e endereços** | Geocodificação, autocomplete, coordenadas, mapas e navegação. |
+| **Arquivos e mídia** | Upload, leitura, pré-visualização, armazenamento e exportação. |
+| **Mensageria e canais** | Fluxos de comunicação com WhatsApp, e-mail e serviços externos. |
+| **Agentes e painéis** | Comunicação com serviços remotos, telemetria e tarefas administrativas. |
+| **Atualizações e builds** | Empacotamento, organização de versões, testes e implantação. |
+
+<a id="dados"></a>
+## 12. Dados, relatórios e ferramentas administrativas
+
+- Dashboards e painéis para acompanhamento de operações.
+- Filtros, buscas, paginação, organização e edição de registros.
+- Indicadores e relatórios de **pedidos, custos, margens, estoque e campanhas**.
+- Históricos de operações demonstrativas, pagamentos, assinaturas e eventos do sistema.
+- Cálculos financeiros aplicados a software: preços, taxas, margens e composição de custos.
+- Logs de aplicação, trilhas de eventos, mensagens de erro e diagnósticos.
+- Telas de configuração, permissões, estados e controle de usuários.
+
+<a id="portais"></a>
+## 13. Sites, portais, mídia e publicação de conteúdo
+
+- Desenvolvimento e manutenção de páginas institucionais e landing pages.
+- Personalização de telas e experiências de navegação em portais.
+- Organização de conteúdo, categorias, bibliotecas de mídia e arquivos.
+- Trabalhos envolvendo **WordPress/PHP** e soluções desenvolvidas sob medida.
+- **De Olho em CG:** projeto relacionado a portal de conteúdo local.
+- Componentes para imagens, vídeos, arquivos e páginas personalizadas.
+- Interfaces de administração e publicação de conteúdo.
 
 <a id="projetos"></a>
-## 09 · Projetos em desenvolvimento
+## Projetos e sistemas
 
-<img src="./assets/clay-projects.svg" width="100%" alt="Ascent Universe, Ascent GO e Ascent Launcher, em cartões minimalistas claymorphism" />
+<img src="./assets/clay-projects.svg" width="100%" alt="Ascent Universe, Ascent GO e Ascent Launcher em cartões claymorphism" />
 
-### Ascent Universe
-**Área:** Minecraft / RPG multiplayer / Java / Fabric
+| Projeto | Tipo | Descrição |
+| --- | --- | --- |
+| **STRATTON** | Plataforma financeira | Interface de trading OTC, ativos, gráficos, indicadores, operações demo e administração. |
+| **Lottus Trading** | Trading / assinaturas | Fluxos de checkout, webhook, confirmação de assinatura e integração com plataforma externa. |
+| **Graffit Pay** | Infraestrutura de pagamentos | APIs, checkout, integração com provedores, registros, webhooks e recursos financeiros em validação. |
+| **BROE Pay** | Arquitetura / protótipo | Estudo de orquestração de pagamentos, PIX, provedores e liquidação com ativos digitais. |
+| **Ascent Creators** | Plataforma de criadores | Campanhas, lojas de produtos digitais, páginas, mídia, criadores, empresas e administração. |
+| **Ascent Shop** | Loja digital | Plataforma comercial e trabalho com estrutura de loja e operações de venda. |
+| **Ascent GO** | Comércio e delivery | Catálogo, pedidos, localização, pagamentos, entregas, estoque e CMV. |
+| **Ascent Host** | Infraestrutura / VPS | Painel e integração de agentes para administração de ambientes e serviços. |
+| **Ascent Universe** | Software Java | Sistemas modulares, interfaces, regras personalizadas e comunicação cliente-servidor. |
+| **Ascent Launcher** | Aplicação desktop | Launcher, instalador, experiência de uso e organização de versões. |
+| **Ascent Model Forge Desktop** | Editor local | Edição e visualização de modelos/recursos em JSON e PNG. |
+| **Universal UI Studio** | Editor de interfaces | Construção e pré-visualização visual de telas HTML/CSS/JS. |
+| **De Olho em CG** | Portal web | Projeto de conteúdo e publicação local. |
+| **Projetos de sites** | Web | Páginas, apresentações institucionais e personalizações de interface. |
 
-Ecossistema de mods e ferramentas para um servidor com classes, progressão, personagens, equipamentos, economia, interfaces e administração. Inclui trabalhos com editores de itens, modelos e texturas.
+> **Status dos projetos:** a tabela reúne experiências de desenvolvimento em fases diferentes, inclusive protótipos, integrações sandbox, sistemas em manutenção e projetos arquivados. Não indica que todas as plataformas estejam publicadas, completas ou disponíveis para uso comercial.
 
-### Ascent GO
-**Área:** Plataforma web / pedidos / entregas / gestão
+<a id="tecnologias"></a>
+## Tecnologias e ferramentas
 
-Sistema de comércio e delivery com foco no atendimento ao cliente e na operação do estabelecimento: catálogo, carrinho, checkout, localização, entregas, pagamentos, estoque e custos.
-
-### Ascent Launcher
-**Área:** Aplicação para desktop / distribuição de software
-
-Launcher para organizar o acesso ao ambiente Ascent, com atenção à instalação, apresentação da interface e manutenção de versões.
-
-### Ferramentas e módulos complementares
-**Área:** Editores / automação / interface / administração
-
-Trabalho em ferramentas auxiliares para criação de conteúdo, edição de equipamentos e skins, organização de recursos e suporte aos fluxos de desenvolvimento.
-
-<sub>Alguns projetos estão em repositórios privados. As descrições são públicas, mas não representam uma lista de recursos já lançados ou disponíveis para download.</sub>
-
-<a id="ferramentas"></a>
-## 10 · Tecnologias, ferramentas e ambientes
-
-| Categoria | Tecnologias e ferramentas |
+| Categoria | Ferramentas e tecnologias |
 | --- | --- |
-| **Linguagens** | Java, JavaScript, HTML, CSS e SQL |
-| **Web e backend** | Node.js, APIs HTTP, integração de sistemas |
-| **Banco de dados** | MySQL |
-| **Infraestrutura** | Linux, Ubuntu Server, VPS, SSH, SCP, `systemd` |
-| **Versionamento** | Git, GitHub |
-| **Terminal e edição** | Neovim, LazyVim, LSP, tmux, PowerShell |
-| **Minecraft** | Fabric 1.20.1, Fabric API, Gradle, ambiente client/server |
-| **Modelagem e recursos** | Blockbench, JSON, PNG, BBMODEL |
-| **Mapas e logística** | Geoapify, geocodificação, rotas e localização |
-| **Hospedagem** | Hostinger, VPS Linux / Contabo |
-| **Organização técnica** | Logs, testes, documentação de mudanças, configuração e deploy |
-
-### O que priorizo nos projetos
-
-- Interfaces organizadas, acessíveis e adaptadas a dispositivos diferentes.
-- Bom desempenho, carregamento eficiente e respostas claras ao usuário.
-- Separação adequada de responsabilidades entre front-end, servidor e banco.
-- Dados consistentes e validação de operações importantes.
-- Diagnóstico de erros, testes e manutenção contínua.
-- Documentação suficiente para retomar e evoluir um projeto sem perder o contexto.
+| **Linguagens** | Java, JavaScript, HTML, CSS, SQL, PHP |
+| **Frontend** | React, Vite, HTML/CSS/JS, interfaces responsivas |
+| **Backend** | Node.js, Express, REST API, WebSocket |
+| **Dados** | MySQL, consultas SQL, modelagem e migrações |
+| **Infraestrutura** | Linux, Ubuntu, VPS, SSH, SCP, `systemd` |
+| **Deploy** | Git, GitHub, Hostinger, VPS Contabo, builds e manutenção |
+| **Ambiente local** | Windows, PowerShell, Neovim, LazyVim, LSP, tmux |
+| **Java e build** | Java, Gradle, módulos e comunicação cliente-servidor |
+| **Interfaces e arquivos** | SVG, JSON, PNG, editores visuais, ferramentas 3D |
+| **Integrações** | Webhooks, APIs financeiras, autenticação, geolocalização, Geoapify |
+| **Experiência visual** | Design responsivo, claymorphism, componentes, temas e dashboards |
 
 ---
 
 <div align="center">
-  <strong>BROE</strong><br/>
-  Desenvolvimento web · Sistemas · Infraestrutura · Minecraft<br/><br/>
-  <a href="https://github.com/ascentdss?tab=repositories">Repositórios públicos</a> ·
-  <a href="https://github.com/ascentdss">Perfil no GitHub</a>
+  <p><strong>BROE</strong><br/>Desenvolvimento web · Plataformas · APIs · Infraestrutura · Java · Desktop</p>
+  <p><a href="https://github.com/ascentdss?tab=repositories">Ver repositórios públicos</a></p>
 </div>
